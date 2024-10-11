@@ -1,0 +1,68 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build files and caches
+dist/
+build/
+.cache/
+.tmp/
+.vscode/
+
+# Debugging files
+*.swp
+*.swo
+
+# OS generated files (MacOS, Windows, Linux)
+.DS_Store
+Thumbs.db
+*.~lock.*
+*.bak
+*.pid
+
+# IDE/Editor specific
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+.vscode/
+*.code-workspace
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Miscellaneous files
+*.log
+*.gz
+*.zip
+*.tgz
+
+# Coverage directory used by testing tools
+coverage/
+
+# Ignore database or sensitive configuration files
+*.sqlite
+*.sqlite3
+
+# Ignore TypeScript build files (if using TypeScript)
+*.tsbuildinfo
